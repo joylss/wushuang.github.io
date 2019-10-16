@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <meta charset="utf-8"> 
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="data/chapters.js"></script>
+        <script> 
+                $(function(){
+                  $("head").load("shared/scripts.html"); 
+                  $("#navbar").load("shared/navbar.html"); 
+                  for(var a = 0; a < chapterlinks.length; a++){
+                        $("#chaps").append("<li class='lead'><a href='" + chapterlinks[a][1] +"' class='links' style='color:brown'>" + chapterlinks[a][0] + "</a></li>");
+                  }
+                });
+         </script> 
+    </head>
+    <body>
+        <div id="navbar"></div>
+        <div id="container" class="container" style="width:60%; margin-bottom:50px">
+            <img style="display:block;margin-left: auto;margin-right: auto;width:250px;margin-top:30px" src="images\unparalleled-cover.jpg" />
+            <h1 style="text-align:center;margin-top:25px">Unparalleled</h1>
+            <p style="text-align:center">Author: <i>Meng Xi Shi 梦溪石</i></p>
+            <p style="text-align:center">Link to raws: <i><a href="http://www.jjwxc.net/onebook.php?novelid=3542625">http://www.jjwxc.net/onebook.php?novelid=3542625</a></i></p>
+            <ul id="chaps" style='display:inline-block;margin-top:25px' class="nav nav-pills">
+            </ul>
+        </div>
+
+    </body>
+</html>

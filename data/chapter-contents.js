@@ -1,0 +1,25 @@
+var chapterContents = [ 
+    {"chapter" : "Chapter 1 - Of Fine Jade and Pristine White", 
+     "content" : "data\\unparalleled\\chapter-one.txt" }, 
+
+     { "chapter" : "Chapter 2 – Cui Buqu", 
+     "content" : "data\\unparalleled\\chapter-two.txt" }, 
+     
+     { "chapter" : "Chapter 3 – When He is Here, It is As If God Himself Is Here", 
+     "content" : "data\\unparalleled\\chapter-three.txt" }, 
+
+     { "chapter" : "Chapter 4 – My Name is Feng Xiao, I hail from the House of Blades", 
+     "content" : "data\\unparalleled\\chapter-four.txt" }, 
+
+     { "chapter" : "Chapter 5 – It Does Not Matter Whether One is Crippled, As Long As There is Still Breath in Him", 
+     "content" : "data\\unparalleled\\chapter-five.txt" }, 
+
+     { "chapter" : "Chapter 6 – Does This Name Sound Nice?", 
+     "content" : "data\\unparalleled\\chapter-six.txt" }, 
+
+     { "chapter" : "Chapter 7 – A Stubborn Body That Even Naihe Drug Is Unable To Tame", 
+     "content" : "data\\unparalleled\\chapter-seven.txt" }, 
+
+     { "chapter" : "Chapter 8 – All The Sufferings In The World, To Him, Is Only Honing His Character", 
+     "content" : "data\\unparalleled\\chapter-eight.txt" }, 
+];

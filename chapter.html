@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="data/chapter-contents.js"></script>
+        <script> 
+                $(function(){
+                  $("head").load("shared/scripts.html"); 
+                  $("#navbar").load("shared/navbar.html");
+                }); 
+                var urlParams = new URLSearchParams(window.location.search);
+                var ch = urlParams.get('chap');
+                $.get(chapterContents[ch]['content'], function(data) {
+                    $('#content').append(data);
+                    }, 'text');
+         </script> 
+    </head>
+    <body>
+        <div id="navbar"></div>
+        <div id="container" class="container" style="width:60%; margin-bottom:50px">
+            <div id="content" style="font-family: 'Vollkorn', serif"></div>
+        </div>
+    </body>
+</html>
