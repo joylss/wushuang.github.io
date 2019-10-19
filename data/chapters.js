@@ -7,4 +7,6 @@ var chapterlinks = [
     ['Chapter 6 – Does This Name Sound Nice?', 'chapter.html?chap=5'],
     ['Chapter 7 – A Stubborn Body That Even Naihe Drug Is Unable To Tame', 'chapter.html?chap=6'],
     ['Chapter 8 – All The Sufferings In The World, To Him, Is Only Honing His Character', 'chapter.html?chap=7'],
+    ['Chapter 9 – You Motherfucker You Wouldn’t Even Let Me Eat, And You Want Me To Work For You?', 'chapter.html?chap=8'],
+    ['Chapter 10', 'chapter.html?chap=9'],
 ];

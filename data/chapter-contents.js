@@ -22,4 +22,10 @@ var chapterContents = [
 
      { "chapter" : "Chapter 8 – All The Sufferings In The World, To Him, Is Only Honing His Character", 
      "content" : "data\\unparalleled\\chapter-eight.txt" }, 
+
+     { "chapter" : "Chapter 9 – You Motherfucker You Wouldn’t Even Let Me Eat, And You Want Me To Work For You?", 
+     "content" : "data\\unparalleled\\chapter-nine.txt" }, 
+
+     { "chapter" : "Chapter 10", 
+     "content" : "data\\unparalleled\\chapter-ten.txt" }, 
 ];
