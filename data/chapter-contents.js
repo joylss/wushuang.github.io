@@ -37,4 +37,7 @@ var chapterContents = [
 
      { "chapter" : "Chapter 13 – The Emperor’s First Move", 
      "content" : "data\\unparalleled\\chapter-thirteen.txt" }, 
+
+     { "chapter" : "Chapter 14 – Do You Want To See My Most ‘Invaluable Treasure’?", 
+     "content" : "data\\unparalleled\\chapter-fourteen.txt" }, 
 ];

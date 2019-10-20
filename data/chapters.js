@@ -12,4 +12,5 @@ var chapterlinks = [
     ['Chapter 11 – Relax, I Am Even More Vengeful Than You Are', 'chapter.html?chap=10'],
     ['Chapter 12 – This Is My ‘Bosom Friend’, His Surname Is Cui, Name Buqu', 'chapter.html?chap=11'],
     ['Chapter 13 – The Emperor’s First Move', 'chapter.html?chap=12'],
+    ['Chapter 14 – Do You Want To See My Most ‘Invaluable Treasure’?', 'chapter.html?chap=13'],
 ];
