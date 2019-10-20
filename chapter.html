@@ -7,7 +7,7 @@
                   $("head").load("shared/scripts.html"); 
                   $("#navbar").load("shared/navbar.html");
                   $('#postComment').click(function(){ 
-                    $("#comments").append("<li><div style='width:100px; border:1px solid black'><b>"+ $('#username').val() + ":</b></div>" +"<div style='width:600px; float:left'>" + $('#userComment').val() +"</div></li>");
+                    $("#comments").append("<li><div style='width:100px; border:1px solid black;display:inline-block; float:left'><b>"+ $('#username').val() + ":</b></div>" +"<div style='border:1px solid black;width:600px; float:left; display:inline-block'>" + $('#userComment').val() +"</div></li>");
                     $('#userComment').empty();
                  });
 
@@ -26,14 +26,15 @@
     <body>
         <div id="navbar"></div>
         <div id="container" class="container" style="width:60%; margin-bottom:50px">
-            <div id="content" style="font-family: 'Vollkorn', serif"></div>
-            <!-- <ul id="comments" style="list-style-type:none; position:relative; margin-top:40px; padding:0">
+            <div id="content" style="font-family: 'Vollkorn', serif; padding-bottom:50px"></div>
+            <!-- <h4>Comments</h4> -->
+            <!-- <ul id="comments" style="list-style-type:none; position:relative; margin-top:40px; padding:0; margin-bottom:50px">
             </ul>
                 <div class="form-group">
                     <input type="text" id="username" class="form-control" style="width:100px; float:left"/>
                     <textarea style="height:100px" class="form-control" id="userComment"></textarea>
                 </div>
-                <button type="button" id="postComment" >Post</button> -->
+            <button type="button" id="postComment" >Post</button> -->
         </div>
     </body>
 </html>

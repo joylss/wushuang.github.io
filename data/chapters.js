@@ -9,4 +9,7 @@ var chapterlinks = [
     ['Chapter 8 – All The Sufferings In The World, To Him, Is Only Honing His Character', 'chapter.html?chap=7'],
     ['Chapter 9 – You Motherfucker You Wouldn’t Even Let Me Eat, And You Want Me To Work For You?', 'chapter.html?chap=8'],
     ['Chapter 10', 'chapter.html?chap=9'],
+    ['Chapter 11 – Relax, I Am Even More Vengeful Than You Are', 'chapter.html?chap=10'],
+    ['Chapter 12 – This Is My ‘Bosom Friend’, His Surname Is Cui, Name Buqu', 'chapter.html?chap=11'],
+    ['Chapter 13 – The Emperor’s First Move', 'chapter.html?chap=12'],
 ];

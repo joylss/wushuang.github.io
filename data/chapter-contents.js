@@ -28,4 +28,13 @@ var chapterContents = [
 
      { "chapter" : "Chapter 10", 
      "content" : "data\\unparalleled\\chapter-ten.txt" }, 
+     
+     { "chapter" : "Chapter 11 – Relax, I Am Even More Vengeful Than You Are", 
+     "content" : "data\\unparalleled\\chapter-eleven.txt" }, 
+
+     { "chapter" : "Chapter 12 – This Is My ‘Bosom Friend’, His Surname Is Cui, Name Buqu", 
+     "content" : "data\\unparalleled\\chapter-twelve.txt" }, 
+
+     { "chapter" : "Chapter 13 – The Emperor’s First Move", 
+     "content" : "data\\unparalleled\\chapter-thirteen.txt" }, 
 ];
