@@ -14,6 +14,8 @@ var chapterlinks = [
     ['Chapter 13 – The Emperor’s First Move', 'chapter.html?chap=12'],
     ['Chapter 14 – Do You Want To See My Most ‘Invaluable Treasure’?', 'chapter.html?chap=13'],
     ['Chapter 15 - Feng Xiao: I Played Myself', 'chapter.html?chap=14'],
+    ['Chapter 16 – Fool, That Was Just Mulberry Juice', 'chapter.html?chap=15'],
+    ['Chapter 17 – Accursed Show-off Oleander', 'chapter.html?chap=16'],
 
 
 

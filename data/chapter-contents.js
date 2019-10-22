@@ -44,6 +44,12 @@ var chapterContents = [
      { "chapter" : "Chapter 15 - Feng Xiao: I Played Myself", 
      "content" : "data\\unparalleled\\chapter-fifteen.txt" }, 
 
+     { "chapter" : "Chapter 16 – Fool, That Was Just Mulberry Juice", 
+     "content" : "data\\unparalleled\\chapter-sixteen.txt" }, 
+
+     { "chapter" : "Chapter 17 – Accursed Show-off Oleander", 
+     "content" : "data\\unparalleled\\chapter-seventeen.txt" }, 
+
 
      
 ];
