@@ -16,6 +16,9 @@ var chapterlinks = [
     ['Chapter 15 - Feng Xiao: I Played Myself', 'chapter.html?chap=14'],
     ['Chapter 16 – Fool, That Was Just Mulberry Juice', 'chapter.html?chap=15'],
     ['Chapter 17 – Accursed Show-off Oleander', 'chapter.html?chap=16'],
+    ['Chapter 18 – How Will The Oleander Witch Solve This Now?', 'chapter.html?chap=17'],
+    ['Chapter 19 – You Whose Surname Is Feng, You Motherfucking Bastard!', 'chapter.html?chap=18'],
+    ['Chapter 20 – He Came To Kill Feng Xiao', 'chapter.html?chap=19'],
 
 
 

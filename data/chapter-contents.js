@@ -50,6 +50,14 @@ var chapterContents = [
      { "chapter" : "Chapter 17 – Accursed Show-off Oleander", 
      "content" : "data\\unparalleled\\chapter-seventeen.txt" }, 
 
+     { "chapter" : "Chapter 18 – How Will The Oleander Witch Solve This Now?", 
+     "content" : "data\\unparalleled\\chapter-eighteen.txt" }, 
+
+     { "chapter" : "Chapter 19 – You Whose Surname Is Feng, You Motherfucking Bastard!", 
+     "content" : "data\\unparalleled\\chapter-nineteen.txt" }, 
+
+     { "chapter" : "Chapter 20 – He Came To Kill Feng Xiao", 
+     "content" : "data\\unparalleled\\chapter-twenty.txt" }, 
 
      
 ];
