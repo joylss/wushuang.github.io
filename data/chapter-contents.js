@@ -59,5 +59,8 @@ var chapterContents = [
      { "chapter" : "Chapter 20 – He Came To Kill Feng Xiao", 
      "content" : "data\\unparalleled\\chapter-twenty.txt" }, 
 
+     { "chapter" : "Chapter 21 – You Took My Lover, Can I Not Act Faster?", 
+     "content" : "data\\unparalleled\\chapter-twentyone.txt" }, 
+
      
 ];

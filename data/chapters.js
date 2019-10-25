@@ -19,6 +19,7 @@ var chapterlinks = [
     ['Chapter 18 – How Will The Oleander Witch Solve This Now?', 'chapter.html?chap=17'],
     ['Chapter 19 – You Whose Surname Is Feng, You Motherfucking Bastard!', 'chapter.html?chap=18'],
     ['Chapter 20 – He Came To Kill Feng Xiao', 'chapter.html?chap=19'],
+    ['Chapter 21 – You Took My Lover, Can I Not Act Faster?', 'chapter.html?chap=20'],
 
 
 
