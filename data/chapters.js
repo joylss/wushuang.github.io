@@ -20,8 +20,14 @@ var chapterlinks = [
     ['Chapter 19 – You Whose Surname Is Feng, You Motherfucking Bastard!', 'chapter.html?chap=18'],
     ['Chapter 20 – He Came To Kill Feng Xiao', 'chapter.html?chap=19'],
     ['Chapter 21 – You Took My Lover, Can I Not Act Faster?', 'chapter.html?chap=20'],
-
-
+    ['Chapter 22 – You Are Not Lying Enough Convincingly', 'chapter.html?chap=21'],
+    ['Chapter 23 – Even If You Would Have Me And Let Me Warm Your Bed….', 'chapter.html?chap=22'],
+    ['Chapter 24 – In This Episode, Peacock Feng And Little Cui Did Not Show Up', 'chapter.html?chap=23'],
+    ['Chapter 25 – Lord Feng You Certainly Don’t Look Like Someone Who Is So Benevolent! ', 'chapter.html?chap=24'],
+    ['Chapter 26 – Call Me ‘Dad’ Three Times, Then I Will Pull You Up', 'chapter.html?chap=25'],
+    ['Chapter 27 – Dad~~ Dad~~', 'chapter.html?chap=26'],
+    ['Chapter 28 – My Surname Is ‘Zhangsun’, Name ‘Bodhi’, I Am One Of The Vice-Commanders Of The Zuoyue Bureau', 'chapter.html?chap=27'],
+    ['Chapter 29 – Fuck, How Did I End Up In A Situation Like This', 'chapter.html?chap=28'],
 
     
 ];

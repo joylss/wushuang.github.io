@@ -62,5 +62,29 @@ var chapterContents = [
      { "chapter" : "Chapter 21 – You Took My Lover, Can I Not Act Faster?", 
      "content" : "data\\unparalleled\\chapter-twentyone.txt" }, 
 
+     { "chapter" : "Chapter 22 – You Are Not Lying Enough Convincingly", 
+     "content" : "data\\unparalleled\\chapter-twentytwo.txt" }, 
+
+     { "chapter" : "Chapter 23 – Even If You Would Have Me And Let Me Warm Your Bed….", 
+     "content" : "data\\unparalleled\\chapter-twentythree.txt" }, 
+
+     { "chapter" : "Chapter 24 – In This Episode, Peacock Feng And Little Cui Did Not Show Up", 
+     "content" : "data\\unparalleled\\chapter-twentyfour.txt" }, 
+
+     { "chapter" : "Chapter 25 – Lord Feng You Certainly Don’t Look Like Someone Who Is So Benevolent! ", 
+     "content" : "data\\unparalleled\\chapter-twentyfive.txt" }, 
+
+     { "chapter" : "Chapter 26 – Call Me ‘Dad’ Three Times, Then I Will Pull You Up ", 
+     "content" : "data\\unparalleled\\chapter-twentysix.txt" }, 
+
+     { "chapter" : "Chapter 27 – Dad~~ Dad~~ ", 
+     "content" : "data\\unparalleled\\chapter-twentyseven.txt" }, 
+
+     { "chapter" : "Chapter 28 – My Surname Is ‘Zhangsun’, Name ‘Bodhi’, I Am One Of The Vice-Commanders Of The Zuoyue Bureau", 
+     "content" : "data\\unparalleled\\chapter-twentyeight.txt" }, 
+
+     { "chapter" : "Chapter 29 – Fuck, How Did I End Up In A Situation Like This", 
+     "content" : "data\\unparalleled\\chapter-twentynine.txt" }, 
+
      
 ];
