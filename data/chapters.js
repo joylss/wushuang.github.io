@@ -28,6 +28,7 @@ var chapterlinks = [
     ['Chapter 27 – Dad~~ Dad~~', 'chapter.html?chap=26'],
     ['Chapter 28 – My Surname Is ‘Zhangsun’, Name ‘Bodhi’, I Am One Of The Vice-Commanders Of The Zuoyue Bureau', 'chapter.html?chap=27'],
     ['Chapter 29 – Fuck, How Did I End Up In A Situation Like This', 'chapter.html?chap=28'],
+    ['Chapter 30 – Is Your Heart Moved?', 'chapter.html?chap=29'],
 
     
 ];

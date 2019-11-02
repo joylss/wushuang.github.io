@@ -86,5 +86,8 @@ var chapterContents = [
      { "chapter" : "Chapter 29 – Fuck, How Did I End Up In A Situation Like This", 
      "content" : "data\\unparalleled\\chapter-twentynine.txt" }, 
 
+     { "chapter" : "Chapter 30 – Is Your Heart Moved?", 
+     "content" : "data\\unparalleled\\chapter-30.txt" }, 
+
      
 ];

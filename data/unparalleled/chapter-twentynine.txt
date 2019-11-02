@@ -135,3 +135,4 @@ incident.</p>
 
 <br><br>
 <a href="chapter.html?chap=27" style="float: left;"><< Chapter 28 – My Surname Is ‘Zhangsun’, Name ‘Bodhi’, I Am One Of The Vice-Commanders Of The Zuoyue Bureau</a>
+<a href="chapter.html?chap=29" style="float: right;">Chapter 30 – Is Your Heart Moved? >></a>
