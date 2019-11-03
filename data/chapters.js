@@ -1,4 +1,5 @@
 var chapterlinks = [
+    ['Arc #1: High Winds At The Outskirts Of The Capital'],
     ['Chapter 1 - Of Fine Jade and Pristine White', 'chapter.html?chap=0'],
     ['Chapter 2 - Cui Buqu', 'chapter.html?chap=1'],
     ['Chapter 3 – When He is Here, It is As If God Himself Is Here', 'chapter.html?chap=2'],
@@ -29,6 +30,7 @@ var chapterlinks = [
     ['Chapter 28 – My Surname Is ‘Zhangsun’, Name ‘Bodhi’, I Am One Of The Vice-Commanders Of The Zuoyue Bureau', 'chapter.html?chap=27'],
     ['Chapter 29 – Fuck, How Did I End Up In A Situation Like This', 'chapter.html?chap=28'],
     ['Chapter 30 – Is Your Heart Moved?', 'chapter.html?chap=29'],
+    ['Chapter 31 – I Will Be Strike By Thunder And Drink Rancid Water Everyday, When I Leave My House, I Will Break My Leg Running', 'chapter.html?chap=30'],
 
     
 ];

@@ -368,4 +368,4 @@ I've put up a character guide and directory over here <a href="guide.html">Chara
 
 <br><br>
 <a href="chapter.html?chap=28" style="float: left;"><< Chapter 29 – Fuck, How Did I End Up In A Situation Like This</a>
-<!--<a href="chapter.html?chap=27" style="float: right;">Chapter 30 – Is Your Heart Moved? >></a>-->
+<a href="chapter.html?chap=30" style="float: right;">Chapter 31 – I Will Be Strike By Thunder And Drink Rancid Water Everyday, When I Leave My House, I Will Break My Leg Running >></a>

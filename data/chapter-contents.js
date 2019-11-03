@@ -1,4 +1,5 @@
 var chapterContents = [ 
+
     {"chapter" : "Chapter 1 - Of Fine Jade and Pristine White", 
      "content" : "data\\unparalleled\\chapter-one.txt" }, 
 
@@ -88,6 +89,9 @@ var chapterContents = [
 
      { "chapter" : "Chapter 30 – Is Your Heart Moved?", 
      "content" : "data\\unparalleled\\chapter-30.txt" }, 
+
+     { "chapter" : "Chapter 31 – I Will Be Strike By Thunder And Drink Rancid Water Everyday, When I Leave My House, I Will Break My Leg Running", 
+     "content" : "data\\unparalleled\\chapter-31.txt" }, 
 
      
 ];
