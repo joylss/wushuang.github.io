@@ -284,4 +284,4 @@ seen some spoilers, it also means we will be meeting Mrs Cui quite soon! :) </p>
 <br><br>
 
 <a href="chapter.html?chap=29" style="float: left;"><< Chapter 30 – Is Your Heart Moved?</a>
-<!--<a href="chapter.html?chap=31" style="float: right;"> >></a>-->
+<a href="chapter.html?chap=31" style="float: right;">Chapter 32 – You Know Each Other Really Well >></a>

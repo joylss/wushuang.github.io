@@ -31,6 +31,6 @@ var chapterlinks = [
     ['Chapter 29 – Fuck, How Did I End Up In A Situation Like This', 'chapter.html?chap=28'],
     ['Chapter 30 – Is Your Heart Moved?', 'chapter.html?chap=29'],
     ['Chapter 31 – I Will Be Strike By Thunder And Drink Rancid Water Everyday, When I Leave My House, I Will Break My Leg Running', 'chapter.html?chap=30'],
-
+    ['Chapter 32 – You Know Each Other Really Well', 'chapter.html?chap=31'],
     
 ];

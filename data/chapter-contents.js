@@ -93,5 +93,8 @@ var chapterContents = [
      { "chapter" : "Chapter 31 – I Will Be Strike By Thunder And Drink Rancid Water Everyday, When I Leave My House, I Will Break My Leg Running", 
      "content" : "data\\unparalleled\\chapter-31.txt" }, 
 
+     { "chapter" : "Chapter 32 – You Know Each Other Really Well", 
+     "content" : "data\\unparalleled\\chapter-32.txt" }, 
+
      
 ];
