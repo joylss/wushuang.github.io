@@ -245,4 +245,4 @@ gold.</p><p>Pei Jingzhe: Help me.</p>
 <a href="chapter.html?chap=31" style="float: left;"><< Chapter 32 – You Know Each Other Really Well</a>
 <!--<a href="chapter.html?chap=33" style="float: right;"> >></a>-->
 
-<br><br>
+<br>
