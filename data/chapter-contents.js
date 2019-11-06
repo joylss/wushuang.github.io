@@ -99,5 +99,8 @@ var chapterContents = [
      { "chapter" : "Chapter 33 – I, From The House Of Blades, Would Not Be Afraid Of You!", 
      "content" : "data\\unparalleled\\chapter-33.txt" },
 
+     { "chapter" : "Chapter 34 – Would The House Of Blades Have Someone As Crafty As Myself?", 
+     "content" : "data\\unparalleled\\chapter-34.txt" },
+
      
 ];

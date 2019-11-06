@@ -32,5 +32,10 @@ var chapterlinks = [
     ['Chapter 30 – Is Your Heart Moved?', 'chapter.html?chap=29'],
     ['Chapter 31 – I Will Be Strike By Thunder And Drink Rancid Water Everyday, When I Leave My House, I Will Break My Leg Running', 'chapter.html?chap=30'],
     ['Chapter 32 – You Know Each Other Really Well', 'chapter.html?chap=31'],
-    ['Chapter 33 – I, From The House Of Blades, Would Not Be Afraid Of You!', 'chapter.html?chap=32']
+    ['Chapter 33 – I, From The House Of Blades, Would Not Be Afraid Of You!', 'chapter.html?chap=32'],
+    ['Chapter 34 – Would The House Of Blades Have Someone As Crafty As Myself?', 'chapter.html?chap=33'],
+
+
+
+
 ];
