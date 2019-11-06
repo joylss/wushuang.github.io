@@ -198,11 +198,11 @@ and ‘Rong’ is spread out across this phrase in Chinese.
 
 <hr>
 
-<p><b>Translator's Note:</b> Wew, two chapters without Feng Xiao is torture to me. Welcome back, king! By the way, Su Xing has been added to the <a href="guide.html">Character's Guide</a></p>
+<p><b>Translator's Note:</b> Wew, two chapters without Feng Xiao is torture to me. Welcome back, king! By the way, Su Xing has been added to the <a href="guide.html">Character's Guide</a>.</p>
 
 
 <br><br>
 <a href="chapter.html?chap=32" style="float: left;"><< Chapter 33 – I, From The House Of Blades, Would Not Be Afraid Of You!</a>
-<!--<a href="chapter.html?chap=33" style="float: right;"> >></a>-->
+<a href="chapter.html?chap=34" style="float: right;">Chapter 35 – Feng Xiao’s Face Turned Green In Colour >></a>
 
 <br><br>

@@ -102,5 +102,8 @@ var chapterContents = [
      { "chapter" : "Chapter 34 – Would The House Of Blades Have Someone As Crafty As Myself?", 
      "content" : "data\\unparalleled\\chapter-34.txt" },
 
+     { "chapter" : "Chapter 35 – Feng Xiao’s Face Turned Green In Colour", 
+     "content" : "data\\unparalleled\\chapter-35.txt" },
+
      
 ];

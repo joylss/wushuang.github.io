@@ -34,6 +34,7 @@ var chapterlinks = [
     ['Chapter 32 – You Know Each Other Really Well', 'chapter.html?chap=31'],
     ['Chapter 33 – I, From The House Of Blades, Would Not Be Afraid Of You!', 'chapter.html?chap=32'],
     ['Chapter 34 – Would The House Of Blades Have Someone As Crafty As Myself?', 'chapter.html?chap=33'],
+    ['Chapter 35 – Feng Xiao’s Face Turned Green In Colour', 'chapter.html?chap=34'],
 
 
 
