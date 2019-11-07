@@ -105,5 +105,8 @@ var chapterContents = [
      { "chapter" : "Chapter 35 – Feng Xiao’s Face Turned Green In Colour", 
      "content" : "data\\unparalleled\\chapter-35.txt" },
 
+     { "chapter" : "Chapter 36 – After All, He Would Never Touch It Again If He Was Beaten To Death", 
+     "content" : "data\\unparalleled\\chapter-36.txt" },
+
      
 ];
